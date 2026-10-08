@@ -2,6 +2,8 @@
 
 **3percentclub · AI Builders · Week 4 lab: Production RAG, Vector Search & Context Memory**
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/isayahc/builders-week4/blob/main/lab.ipynb)
+
 It's 11:58 PM at the last video store in Brooklyn. A customer half-remembers a horror movie, and the clerk's AI has to find the right tape out of 38. You'll build a two-stage hybrid retrieval pipeline over the shelf, then tune it with three experiments:
 
 1. **Chunk size:** 512 vs 128 tokens. Watch small chunks cut a movie's ending off from its title.
